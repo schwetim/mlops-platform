@@ -1,4 +1,4 @@
-# COMPLIANCE-AS-A-PRODUCT: Vision and Initial Concept
+# LLM-COMPLIANCE-AS-A-SERVICE: Vision and Initial Concept
 
 ---
 
